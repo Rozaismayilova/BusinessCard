@@ -1,0 +1,22 @@
+.info{
+    text-align: center;
+}
+h1{
+    font-size: 25px;
+    color: white;
+    font-weight: 700;
+    margin: 0;
+    line-height: 31px;
+}
+h3{
+    color: #F3BF99;
+    font-size: 12.8px;
+    line-height: 16px;
+    margin: 0;
+}
+span{
+    font-size: 10.24px;
+    color: #F5F5F5;
+    line-height: 16px;
+    
+}
